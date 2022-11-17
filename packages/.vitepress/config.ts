@@ -14,7 +14,7 @@ const DefaultSideBar = [
 ];
 
 export default {
-  base: '/',
+  base: '/hbisedmjs',
   title: 'hbisedmJS',
   lang: 'zh-CN',
   themeConfig: {
